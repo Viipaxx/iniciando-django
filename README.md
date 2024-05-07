@@ -1,5 +1,5 @@
 <h1 align="center">To Do List</h1>
-<p align="center">O que é melhor para se organizar do que uma lista de tarefas? <br> Com essa ideia em mente criei o To Do List uma aplicação web onde você pode: adicionar; remover; alterar; marcar/desmarcar como concluída. <br><br>Está cheio de tarefas? Você pode não concluir todas hoje, mas pode organizar todas.</p>
+<p align="center">O que é melhor para se organizar do que uma lista de tarefas? <br> Com essa ideia em mente criei o To Do List uma aplicação web onde você pode: adicionar; remover; alterar; marcar/desmarcar como concluída. <br><br>Está cheio de tarefas? Você pode não concluir hoje, mas com certeza pode organizar todas.</p>
 
 <h3 align="center">Tecnologias Usadas:</h3>
 <ul style="list-style: none;">
