@@ -1,4 +1,4 @@
-$(document).ready(function() {
+    $(document).ready(function() {
     
     var baseUrl = 'http://localhost:8000/'
     var deleteBtn = $('.delete-btn')
